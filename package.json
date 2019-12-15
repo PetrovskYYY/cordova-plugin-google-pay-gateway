@@ -1,22 +1,21 @@
 {
-  "name": "cordova-plugin-stripe-google-pay",
-  "version": "0.0.7",
-  "description": "Cordova plugin for Stripe - Google Pay",
+  "name": "cordova-plugin-google-pay-gateway",
+  "version": "0.0.1",
+  "description": "Cordova plugin for Google Pay using gateways",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asangadev/cordova-plugin-stripe-google-pay.git"
+    "url": "git+https://github.com/PetrovskYYY/cordova-plugin-google-pay-gateway.git"
   },
-  "author": "Asanga Dev <asanga.dev@gmail.com>",
+  "author": "Yuriy Petrovskiy <yuriy.petrovskiy@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asangadev/cordova-plugin-stripe-google-pay/issues"
+    "url": "https://github.com/PetrovskYYY/cordova-plugin-google-pay-gateway/issues"
   },
-  "homepage": "https://github.com/asangadev/cordova-plugin-stripe-google-pay#readme",
+  "homepage": "https://github.com/PetrovskYYY/cordova-plugin-google-pay-gateway#readme",
   "keywords": [
-    "stripe",
     "cordova",
     "google pay cordova",
     "google pay phonegap",
-    "strip google pay cordova"
+    "gateway"
   ]
 }

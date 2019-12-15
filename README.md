@@ -1,6 +1,9 @@
-# cordova-plugin-stripe-google-pay
+# cordova-plugin-google-pay-gateway
 
-> Cordova plugin for Stripe - Goole Pay integration
+> Cordova plugin for using Goole Pay with payment gateways
+
+based on https://github.com/asangadev/cordova-plugin-stripe-google-pay
+
 
 ## Notes
 
@@ -8,14 +11,13 @@ This plugin only supports Android.
 
 This plugin will add these dependencies to your build.gradle file:
 
-    com.stripe:stripe-android:6.1.2
     com.google.android.gms:play-services-wallet:16.0.0
     com.android.support:support-v4:27.0.2
     com.android.support:appcompat-v7:24.1.1
 
 ## Installation
 
-    cordova plugin add cordova-plugin-stripe-google-pay
+    cordova plugin add cordova-plugin-google-pay-gateway
 
 ## Quick Example
 
